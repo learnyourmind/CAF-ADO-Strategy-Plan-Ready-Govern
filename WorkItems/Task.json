@@ -1,0 +1,4062 @@
+{
+  "count": 99,
+  "value": [
+    {
+      "id": 2074,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T21:58:04.12Z",
+        "System.CreatedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:58:04.12Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "Define new capabilities needed for cloud teams",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Plan",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1919",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2074"
+    },
+    {
+      "id": 2073,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T21:57:20.757Z",
+        "System.CreatedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:57:28.673Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "Perform a skills gap analysis",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Plan",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1919",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2073"
+    },
+    {
+      "id": 2072,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T21:35:21.12Z",
+        "System.CreatedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:35:48.987Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "Evaluate how business outcomes will be implemented and measured",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Recommendation: Use the OKR methodology&nbsp;</div><div><br></div><div>Suggested partner for implementation:&nbsp;<a href=\"https://www.workboard.com/\">https://www.workboard.com/</a></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Strategy",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1922",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2072"
+    },
+    {
+      "id": 2071,
+      "rev": 5,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T21:01:27.037Z",
+        "System.CreatedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:17:26.763Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "Validate the need for Hybrid environments",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>What considerations, applications and environments will need to be hybrid.&nbsp;</div><div><br></div><div><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/hybrid-consistency\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/hybrid-consistency</a><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Plan",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1917",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2071"
+    },
+    {
+      "id": 1985,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:25.777Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "8 - Predict costs and optimize spending for Azure",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Predict costs and optimize\nspending for Azure</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2061",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1985"
+    },
+    {
+      "id": 1984,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:25.497Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "4 - Tutorial: Create Azure Advisor alerts on new recommendations",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/advisor/advisor-alerts\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial: Create Azure Advisor\nalerts on new recommendations</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2062",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1984"
+    },
+    {
+      "id": 1983,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:25.347Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "4 - Tutorial: Define and assign a blueprint in the portal",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/governance/blueprints/create-blueprint-portal\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial: Define and assign a\nblueprint in the portal</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2064",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1983"
+    },
+    {
+      "id": 1982,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:25.2Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "3 - Tutorial: Create activity log alerts on service notifications",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/service-health/alerts-activity-log-service-notifications\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial: Create activity log\nalerts on service notifications</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2063",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1982"
+    },
+    {
+      "id": 1981,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:25.053Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "3 - Tutorial: Create a lock from Azure Portal",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources#portal\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial: Create a lock from\nAzure Portal</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2065",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1981"
+    },
+    {
+      "id": 1980,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:24.877Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "6 - Tutorial: Create a policy assignment to identify non-compliant resources",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/governance/policy/assign-policy-portal\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial: Create a policy\nassignment to identify non-compliant resources</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2066",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1980"
+    },
+    {
+      "id": 1979,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:24.71Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "5 - Tutorial: Add or remove role assignments using Azure RBAC and the Azure portal",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial: Add or remove role\nassignments using Azure RBAC and the Azure portal</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2067",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1979"
+    },
+    {
+      "id": 1978,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:24.54Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "6 - Enable MFA",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Enable MFA</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2069",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1978"
+    },
+    {
+      "id": 1977,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:24.25Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "7 - Tutorial: Optimize costs from recommendations",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cost-management/tutorial-acm-opt-recommendations\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial: Optimize costs from\nrecommendations</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2061",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1977"
+    },
+    {
+      "id": 1976,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:24.1Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "6 - Tutorial: Create and manage exported data",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cost-management/tutorial-export-acm-data\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial: Create and manage\nexported data</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2061",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1976"
+    },
+    {
+      "id": 1975,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:23.963Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "5 - Tutorial: Create and manage Azure budgets",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cost-management/tutorial-acm-create-budgets\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial: Create and manage\nAzure budgets</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2061",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1975"
+    },
+    {
+      "id": 1974,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:23.667Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "5 - Tutorial: View your organization’s groups and members in AAD",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-groups-view-azure-portal\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial: View your\norganization’s groups and members in AAD</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2069",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1974"
+    },
+    {
+      "id": 1973,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:23.363Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "5 - Use policies to enforce standards",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/4-use-policies-to-enforce-standards\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Use policies to enforce standards</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2066",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1973"
+    },
+    {
+      "id": 1972,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:23.123Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "5 - Azure administrative roles",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts#azure-administrative-roles\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Azure administrative roles</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2070",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1972"
+    },
+    {
+      "id": 1971,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:22.98Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "4 - Subscription decision guides",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Subscription decision guide</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2070",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1971"
+    },
+    {
+      "id": 1970,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:22.82Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "4 - Tutorial Create a new tenant in AAD",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-access-create-new-tenant\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial Create a new tenant in\nAAD</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2069",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1970"
+    },
+    {
+      "id": 1969,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:22.67Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "4 - Organize policy with initiatives",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/3-initiatives\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Organize policy with initiatives</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2066",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1969"
+    },
+    {
+      "id": 1968,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:22.517Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "4 - Quickstart: Explore and analyze costs with cost analysis",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/quick-acm-cost-analysis\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Quickstart: Explore and analyze\ncosts with cost analysis</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2061",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1968"
+    },
+    {
+      "id": 1967,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:22.37Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "3 - How to optimize your cloud investment with Azure Cost Management",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices\">How to optimize your cloud\ninvestment with Azure Cost Management</a></span></span><br></div><div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><br></span></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2061",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1967"
+    },
+    {
+      "id": 1966,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:22.127Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "3 - Define IT compliance with Azure Policy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/2-azure-policy\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Define IT compliance with Azure\nPolicy</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2066",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1966"
+    },
+    {
+      "id": 1965,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:21.977Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "3 - Define standard resources with Azure Blueprints",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/5-azure-blueprints\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Define standard resources with\nAzure Blueprints</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2064",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1965"
+    },
+    {
+      "id": 1964,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:21.833Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "3 - Get started with Azure Advisor",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/advisor/advisor-get-started\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Get started with Azure Advisor</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2062",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1964"
+    },
+    {
+      "id": 1962,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:21.393Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "3 - Subscription purposes",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts#azure-subscription-purposes\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Subscription purposes</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 3.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2070",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1962"
+    },
+    {
+      "id": 1961,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:21.233Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "4 - Secure resources with RBAC",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/5-role-based-access\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Secure resources with RBAC</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2067",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1961"
+    },
+    {
+      "id": 1960,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:21.08Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "5 - Organize subscriptions and resources",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Organize subscriptions</span></a></span><span style=\"font-size:11.0pt;font-family:&quot;Segoe UI Light&quot;,sans-serif;\"> | </span><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources?tabs=AzureManagementGroupsAndHierarchy\">Organize your Azure Resources\n(CAF)</a></span></span><br></div><div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/governance/management-groups/overview\">Management Groups</a></span></span><br></span></div><div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/governance/management-groups/create\">Tutorial: Create management\ngroups for resource organization and management</a></span></span><br></span></span></div><div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging\">Recommended naming and tagging\nconventions</a></span></span><br></span></span></span></div><div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/\">Resource naming and tagging\ndecision guide</a></span></span><br></span></span></span></span></div><div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/2-principles-of-resource-groups\">Principles of resource groups</a></span></span><br></span></span></span></span></span></div><div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources#portal\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Use tags to organize your Azure\nresources</span></a></span><span style=\"font-size:11.0pt;font-family:&quot;Segoe UI Light&quot;,sans-serif;\"> | <span style=\"\">&nbsp;</span></span><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/3-use-tagging-to-organize-resources\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Use tagging to organize\nresources (MS Learn)</span></a></span><br></span></span></span></span></span></span></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2068",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1960"
+    },
+    {
+      "id": 1959,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:20.9Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "4 - Associate or add an Azure subscription to you AAD Tenant",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory\"><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Associate or add an Azure\nsubscription to you AAD Tenant</span></span><br></a></div><div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><br></span></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2068",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1959"
+    },
+    {
+      "id": 1958,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:20.76Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "3 - Tutorial: Create an additional Azure subscription",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/create-subscription\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Tutorial: Create an additional\nAzure subscription</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2068",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1958"
+    },
+    {
+      "id": 1957,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:20.623Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "2 - Scale subscriptions",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/scale-subscriptions\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Scale subscriptions</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2068",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1957"
+    },
+    {
+      "id": 1956,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:20.467Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "3 - Role-based access control",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/roles\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Role-based access control</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2067",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1956"
+    },
+    {
+      "id": 1955,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:20.303Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "2 - Terminologies",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts#azure-terminology\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Terminologies</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2070",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1955"
+    },
+    {
+      "id": 1954,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:20.157Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "2 - Introduction to Azure Advisor",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/advisor/advisor-overview\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Introduction to Azure Advisor</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2062",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1954"
+    },
+    {
+      "id": 1953,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:20Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "2 - Blueprint definitions",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/governance/blueprints/overview#blueprint-definition\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Blueprint definitions</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2064",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1953"
+    },
+    {
+      "id": 1952,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:19.793Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "2 - Governance, security and compliance in Azure",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/govern-org-compliance?tabs=AzurePolicy\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Governance, security and\ncompliance in Azure</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2066",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1952"
+    },
+    {
+      "id": 1951,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:19.573Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "2 - Use resource locks to protect resources (MS Learn)",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/6-use-resource-locks-to-protect-resources\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Use resource locks to protect\nresources (MS Learn)</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2065",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1951"
+    },
+    {
+      "id": 1950,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:19.42Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "2 - View service health notifications by using the Azure portal",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/service-health/service-notifications\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">View service health\nnotifications by using the Azure portal</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2063",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1950"
+    },
+    {
+      "id": 1949,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:19.077Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "2 - What is Azure Cost Management and Billing?",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">What is Azure Cost Management\nand Billing?</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2061",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1949"
+    },
+    {
+      "id": 1948,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:18.793Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "2 - Manage access to your Azure environment with role-based access controls",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/manage-access\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Manage access to your Azure\nenvironment with role-based access controls</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2067",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1948"
+    },
+    {
+      "id": 1947,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:18.633Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "1 - What is RBAC",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/role-based-access-control/overview\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">What is RBAC</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2067",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1947"
+    },
+    {
+      "id": 1946,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:18.4Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "1 - Initial subscriptions",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/initial-subscriptions\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Initial subscriptions</span></a></span><span style=\"font-size:11.0pt;font-family:&quot;Segoe UI Light&quot;,sans-serif;\"> </span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2068",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1946"
+    },
+    {
+      "id": 1945,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:18.25Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "1 - How does Azure Works",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/getting-started/what-is-azure\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">How does Azure Works</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 1.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2070",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1945"
+    },
+    {
+      "id": 1944,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:18.097Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "2 - Compare AD with AAD",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Compare AD with AAD</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2069",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1944"
+    },
+    {
+      "id": 1943,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:17.88Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "1 - What is Azure Service Health?",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/service-health/overview\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">What is Azure Service Health?</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2063",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1943"
+    },
+    {
+      "id": 1942,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:17.47Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "1 - Lock resources to prevent unexpected changes",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Lock resources to prevent\nunexpected changes</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2065",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1942"
+    },
+    {
+      "id": 1941,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:17.237Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "1 - What is Azure Policy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/governance/policy/overview\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">What is Azure Policy</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2066",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1941"
+    },
+    {
+      "id": 1940,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:16.623Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "1 - What is Azure Blueprints?",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/governance/blueprints/overview\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">What is Azure Blueprints?</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2064",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1940"
+    },
+    {
+      "id": 1939,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:16.243Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "1 - Monitoring and reporting in Azure (CAF)",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/monitoring-reporting?tabs=AzureAdvisor\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Monitoring and reporting in Azure\n(CAF)</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2062",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1939"
+    },
+    {
+      "id": 1938,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:15.95Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "1 - Manage costs and billing for your Azure resources",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/manage-costs\"><span style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">Manage costs and billing for\nyour Azure resources</span></a></span><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2061",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1938"
+    },
+    {
+      "id": 1937,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 1",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:15:15.717Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T21:20:34.69Z",
+        "System.ChangedBy": "Wayne Meyer <wayneme@microsoft.com>",
+        "System.Title": "1 - What is AAD",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"><a href=\"https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis\"><span lang=PT-BR style=\"font-family:&quot;Segoe UI Light&quot;,sans-serif;\">What is AAD</span></a></span>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/2069",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1937"
+    },
+    {
+      "id": 1905,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:38.9Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:38.9Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Subscription Decision Guide",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Plan your cloud deployment's <a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/\">subscription design</a> and account structure\nto match your organization's ownership, billing, and management capabilities.</span></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1908",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1905"
+    },
+    {
+      "id": 1904,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:38.743Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:38.743Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Identity Decision Guide",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/identity/\">Identity and access management (IAM)</a> services enable you to manage access control in the cloud<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1908",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1904"
+    },
+    {
+      "id": 1903,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:38.55Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:38.55Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Network Decision Guide",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>The <a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/networking-vdc\">virtual datacenter</a> concept provides recommendations and high-level designs for implementing a collection of separate but related entities. These entities often have common supporting functions, features, and infrastructure.<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1908",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1903"
+    },
+    {
+      "id": 1902,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:38.4Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:38.4Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Policy Enforcement Decision Guide",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/policy-enforcement/\">Defining organizational policy </a>is not effective unless it can be enforced across your organization<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1908",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1902"
+    },
+    {
+      "id": 1901,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:38.097Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:38.097Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Identity Management Best Practices",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://docs.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices?toc=https://docs.microsoft.com/azure/cloud-adoption-framework/toc.json&amp;bc=https://docs.microsoft.com/azure/cloud-adoption-framework/_bread/toc.json\">Azure Identity Management and access control security best practices</a><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1912",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1901"
+    },
+    {
+      "id": 1900,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:37.923Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:37.923Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "IAM - Least Privilege Access",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "IAM - Least Privilege Access",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1912",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1900"
+    },
+    {
+      "id": 1899,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:37.75Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:37.75Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Monitoring Decision Guide",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>All organizations need mechanisms for notifying IT teams of performance, uptime, and security issues before they become serious problems.&nbsp; <a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/logging-and-reporting/\">Logging and reporting decision guide</a><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Manage",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1908",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1899"
+    },
+    {
+      "id": 1898,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:37.58Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:37.58Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Security Decision Guide",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>The <a href=\"https://docs.microsoft.com/en-us/azure/security/fundamentals/operational-best-practices\">best practices</a> are based on a consensus of opinion, and they work with current Azure platform capabilities and feature sets. Opinions and technologies change over time and this article is updated on a regular basis to reflect those changes.<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1908",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1898"
+    },
+    {
+      "id": 1897,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:37.403Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:37.403Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Compliance Decision Guide",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Compliance Decision Guide",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1908",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1897"
+    },
+    {
+      "id": 1896,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:37.233Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:37.233Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "BCDR Decision Guide",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "BCDR Decision Guide",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Manage",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1908",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1896"
+    },
+    {
+      "id": 1895,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:37Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:37Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Automation Decision Guide",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Automation Decision Guide",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1908",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1895"
+    },
+    {
+      "id": 1894,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:36.72Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:36.72Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Azure Naming and Tagging Convention",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging\">Recommended naming and tagging conventions</a><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1908",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1894"
+    },
+    {
+      "id": 1893,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:36.57Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:36.57Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Common-Design-Principles-for-a-Hub-and-Spoke-VNET-Archiecture",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://github.com/microsoft/Common-Design-Principles-for-a-Hub-and-Spoke-VNET-Archiecture\">Common-Design-Principles-for-a-Hub-and-Spoke-VNET-Archiecture</a><br></div><div><br></div><div>Hub-spoke network topology in Azure<br></div><div><a href=\"https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke\">https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke</a><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1911",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1893"
+    },
+    {
+      "id": 1892,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:36.407Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:36.407Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Best Practices for Network Security",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://docs.microsoft.com/en-us/azure/security/fundamentals/network-best-practices?toc=https://docs.microsoft.com/azure/cloud-adoption-framework/toc.json&amp;bc=https://docs.microsoft.com/azure/cloud-adoption-framework/_bread/toc.json\">Azure best practices for network security</a><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1911",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1892"
+    },
+    {
+      "id": 1891,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:35.97Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:35.97Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Network segmentation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/network-level-segmentation\">Secure and govern workloads with network level segmentation</a><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1911",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1891"
+    },
+    {
+      "id": 1890,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:35.803Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:35.803Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Create Virtual Networks",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm?toc=https://docs.microsoft.com/azure/cloud-adoption-framework/toc.json&amp;bc=https://docs.microsoft.com/azure/cloud-adoption-framework/_bread/toc.json\">Plan virtual networks</a></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1911",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1890"
+    },
+    {
+      "id": 1889,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:35.637Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:35.637Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Create a Perimeter Network",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/perimeter-networks\">Perimeter networks</a><br></div><div><br></div><div>Network DMZ between Azure and an on-premises datacenter<br></div><div><a href=\"https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/secure-vnet-dmz\">https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/secure-vnet-dmz</a><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1911",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1889"
+    },
+    {
+      "id": 1888,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:35.44Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:35.44Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Deploy highly available network virtual appliances",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/nva-ha\">NVA </a>provides a secure network boundary by checking all inbound and outbound network traffic and passing only the traffic that meets network security rules<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1911",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1888"
+    },
+    {
+      "id": 1887,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:35.27Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:35.27Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Create Hub, Spokes and DMZ",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Create Hub, Spokes and DMZ",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1910",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1887"
+    },
+    {
+      "id": 1886,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:35.11Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:35.11Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Role-based Access Control",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Overview of<a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/roles\"> role-based access control</a><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1907",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1886"
+    },
+    {
+      "id": 1885,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:34.96Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:34.96Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Review Data Options",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>When you prepare your landing zone environment for your cloud adoption, you need to determine the <a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/data-options\">data requirements </a>for hosting your workloads.<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1907",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1885"
+    },
+    {
+      "id": 1884,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:34.79Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:34.79Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Review Storage Options",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/storage-options\">Storage capabilities</a> are critical for supporting workloads and services that are hosted in the cloud.<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1907",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1884"
+    },
+    {
+      "id": 1883,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:34.473Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:34.473Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Review Network  Options",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Designing and implementing <a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/networking-options\">Azure networking capabilities</a> is a critical part of your cloud adoption efforts<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1907",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1883"
+    },
+    {
+      "id": 1882,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:34.11Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:34.11Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Review Compute Options",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Determining the <a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/compute-options\">compute requirement</a>s for hosting your workloads is a key consideration as you prepare for your cloud adoption.<br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Ready",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1907",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1882"
+    },
+    {
+      "id": 1881,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:33.88Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:33.88Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Create timelines",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span><a href=\"https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/plan/timelines\">Create timelines</a> to align expectations across the business and IT teams.</span></div><div><span>Create and validate the timelines - GSI and Quisitive</span></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Plan",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1920",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1881"
+    },
+    {
+      "id": 1880,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:33.683Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:33.683Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Define iterations and releases",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span><a href=\"https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/plan/iteration-paths\">Update the iteration path</a> of each workload to define iterations of work and iterations of production workload releases.</span></div><div>&nbsp;- Discuss and validate the iteration with Quisitive</div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Plan",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1920",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1880"
+    },
+    {
+      "id": 1879,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:33.15Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:33.15Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Align assets to workloads",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span>Ensure that all <a href=\"https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/plan/assets\">assets are aligned</a>&nbsp; for the Azure Databricks project</span></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Plan",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1920",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1879"
+    },
+    {
+      "id": 1878,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:32.957Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:32.957Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Prioritize workloads and projects",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div><span><a href=\"https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/plan/workloads\">Define and prioritize workloads</a> in the backlog for the adoption projects</span></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Plan",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1920",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1878"
+    },
+    {
+      "id": 1877,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:32.69Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:32.69Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Skills Readiness Plan for Developers, IT Staff and Business Users",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Map out the new skills required for Cloud Adoption across the organization:&nbsp;</div><div><br></div><div><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills</a>&nbsp;</div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Plan",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1920",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1877"
+    },
+    {
+      "id": 1876,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:32.413Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:32.413Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Document Members of the Cloud Teams in Cloud Adoption Plan",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Who will participate in the Strategy, Platform, Governance, Automation, Operations and Migration teams.</div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Plan",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1920",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1876"
+    },
+    {
+      "id": 1875,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:32.24Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:32.24Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Reference data for Control Mapping for specific compliance requirements",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Control mapping for Azure Blueprint / Policy. <a href=\"https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/\">Blueprint samples</a></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1934",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1875"
+    },
+    {
+      "id": 1874,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:31.693Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:31.693Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Update Cloud Adoption Plan with risks and compliance requirements",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Post gap identification, and the evaluation of the risk which need to be mititgated we need to ensure that this is documented within the plan.",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1934",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1874"
+    },
+    {
+      "id": 1873,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:31.54Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:31.54Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Review the sample policies",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "A default set of policies have been defined for the MVP, review these policies in the Cloud Adoption Framework documentation",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1933",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1873"
+    },
+    {
+      "id": 1872,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:31.383Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:31.383Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Review the sample policies",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "A default set of policies have been defined for the MVP, review these policies in the Cloud Adoption Framework documentation",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1932",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1872"
+    },
+    {
+      "id": 1871,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:31.213Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:31.213Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Review the sample policies",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "A default set of policies have been defined for the MVP, review these policies in the Cloud Adoption Framework documentation",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1931",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1871"
+    },
+    {
+      "id": 1870,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:30.407Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:30.407Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Review the sample policies",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "A default set of policies have been defined for the MVP, review these policies in the Cloud Adoption Framework documentation",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1930",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1870"
+    },
+    {
+      "id": 1869,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:30.223Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:30.223Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Review the sample policies",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "A default set of policies have been defined for the MVP, review these policies in the Cloud Adoption Framework documentation",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1929",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1869"
+    },
+    {
+      "id": 1868,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:29.79Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:29.79Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Update the Cloud Adoption Plan",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Once you have determined which policies need to be applied, be sure to update the Cloud Adoption Plan",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1933",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1868"
+    },
+    {
+      "id": 1867,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:29.633Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:29.633Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Update the Cloud Adoption Plan",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Once you have determined which policies need to be applied, be sure to update the Cloud Adoption Plan",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1932",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1867"
+    },
+    {
+      "id": 1866,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:29.427Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:29.427Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Update the Cloud Adoption Plan",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Once you have determined which policies need to be applied, be sure to update the Cloud Adoption Plan",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1931",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1866"
+    },
+    {
+      "id": 1865,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:29.263Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:29.263Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Update the Cloud Adoption Plan",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Once you have determined which policies need to be applied, be sure to update the Cloud Adoption Plan",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1930",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1865"
+    },
+    {
+      "id": 1864,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:28.833Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:28.833Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Update the Cloud Adoption Plan",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Once you have determined which policies need to be applied, be sure to update the Cloud Adoption Plan",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1929",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1864"
+    },
+    {
+      "id": 1863,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:28.58Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:28.58Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Run 1st benchmark evaluation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>http://aka.ms/adopt/gov/assess</div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1935",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1863"
+    },
+    {
+      "id": 1862,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:28.213Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:28.213Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Build list of applications / workloads destined for Cloud",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Ensure that there is alignment on the applications and workloads going to cloud. Create a detailed list of workloads which meet the motivators and business objectives determined earlier.",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Strategy",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1924",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1862"
+    },
+    {
+      "id": 1861,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:28.057Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:28.057Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Identify accountability for billing and cost attribution",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Accountability and access to the data: <a href=\"https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/assign-access-acm-data\">reference here</a></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1933",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1861"
+    },
+    {
+      "id": 1860,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "$ProjectName$\\Iteration 2",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:27.877Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:27.877Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Define budgets and budget alerts",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>Setup budgets by various scopes and alerting on the budgets: <a href=\"https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending\">reference here</a></div><div><br></div><div>ARM Template on Github:&nbsp;<a href=\"https://github.com/Azure/azure-quickstart-templates/tree/master/create-budget/\">https://github.com/Azure/azure-quickstart-templates/tree/master/create-budget/</a>&nbsp;</div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Govern",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1933",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1860"
+    },
+    {
+      "id": 1859,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.TeamProject": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.IterationPath": "CAF-ADO-Strategy-Plan-Ready-Gov",
+        "System.WorkItemType": "Task",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2020-05-14T14:10:27.557Z",
+        "System.CreatedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.ChangedDate": "2020-05-14T14:10:27.557Z",
+        "System.ChangedBy": "Vandy Rodrigues <vandyr@microsoft.com>",
+        "System.Title": "Define team structures",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<div>The Cloud Adoption Framework has guidance on the how to structure you org and teams for the Cloud.</div><div><br></div><div><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/initial-org-alignment\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/initial-org-alignment</a><br></div><div><br></div><div><a href=\"https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/\">https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/</a><br></div><div><br></div>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": "Plan",
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1918",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/vandyr/_apis/wit/workItems/1859"
+    }
+  ],
+  "HttpStatusCode": 0,
+  "Message": null
+}
